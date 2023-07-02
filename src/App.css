@@ -1,0 +1,234 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  transition: 0.5s;
+  background-color: rgb(226, 226, 226);
+}
+nav {
+  background: rgb(150, 150, 150);
+  color: white;
+}
+.nav-right {
+  margin-left: auto;
+}
+.nav-right button {
+  padding: 5px;
+  cursor: pointer;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul li {
+  padding: 1rem;
+}
+.li{
+  display: block;
+  background-color: bisque;
+  height: auto;
+  width: 100%;
+}
+nav a {
+  text-decoration: none;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: inherit;
+}
+body p, div, span {
+  color: inherit;
+}
+.container {
+  width: 80%;
+  margin: auto;
+  margin-top: 1rem;
+}
+.image-container {
+  text-align: center;
+}
+.image-container img {
+  margin: 1rem;
+  width: 50%;
+  aspect-ratio: 1/1;
+}
+.counter-container button {
+  padding: 6px;
+  margin: 6px;
+  cursor: pointer;
+}
+img.active {
+  display: block;
+}
+.listItem {
+  margin-bottom: 1rem;
+}
+.listItem span {
+  margin: 8px;
+  margin-left: 0;
+}
+.listItem span.delete {
+  color: white;
+  background-color: red;
+  padding: 5px;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 8px;
+}
+.listItem span.update {
+  color: white;
+  background-color: rgb(221, 189, 10);
+  padding: 5px;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 8px;
+}
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+.flex-cont{
+  display: flex;
+}
+.flex-container-right{
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+}
+.flex-container-left{
+  width: 60%;
+}
+.flex-container-left img{
+  width: 55%;
+  margin-top: 2rem;
+}
+.baslik{
+  font-family: 'Courier New', Courier, monospace;
+}
+.trf{
+  width: 55%;
+  text-align: justify;
+  margin-top: 1.5rem;
+  line-height: 1.5;
+  font-size: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.yorum{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+}
+.flex-container .flex-item {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 1rem;
+  margin-bottom: 1rem;
+}
+.flex-container .flex-item .flex-body img {
+  height: 350px;
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: contain;
+}
+.browse button {
+  width: 100%;
+  cursor: pointer;
+  padding: 8px;
+  margin-top: 25px;
+  border: none;
+  border: 0px;
+  background: rgb(150, 150, 150);
+  color: white;
+  font-family: cursive;
+  font-size: 15px;
+  border-radius: 6px;
+}
+.browse button:hover {
+  background: rgb(119, 119, 119);
+}
+.searchBar {
+  width: 30%;
+  margin-left: 45px;
+}
+.searchBar input {
+  border: 0px;
+  border-radius: 5px;
+  height: 36px;
+  width: 100%;
+  padding: 6px;
+}
+.yorum-ekle{
+  margin-top: 2rem;
+  border: 0px;
+  padding-left: 10px;
+  width: 50%;
+  height: 35px;
+  border-radius: 6px;
+}
+.yorum-btn{
+  width: 20%;
+  cursor: pointer;
+  padding: 8px;
+  margin-top: 12px;
+  border: none;
+  border: 0px;
+  background: rgb(150, 150, 150);
+  color: white;
+  font-family: cursive;
+  font-size: 13px;
+  border-radius: 6px;
+  margin-left: 2rem;
+}
+.hakkimizda{
+  display: flex;
+  flex-direction: column;
+  margin-top: 13%;
+  align-items: center;
+  text-align: justify;
+  height: 600px;
+}
+.footer {
+  padding: 40px 0;
+  background: rgb(150, 150, 150);
+  margin-top: 4rem;
+}
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.footer-left {
+  width: 50%;
+}
+.footer-right {
+  width: 50%;
+}
+.footer h3, .footer h4 {
+  color: #333;
+}
+.footer ul {
+  list-style: none;
+  padding: 0;
+}
+.footer ul li {
+  margin-bottom: 10px;
+}
+.footer ul li a {
+  color: rgb(226, 226, 226);
+  text-decoration: none;
+}
+.footer-bottom {
+  background: rgb(150, 150, 150);
+  border-top: 1px solid #ddd;
+  padding: 10px 0;
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: -40px;
+}

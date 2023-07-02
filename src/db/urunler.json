@@ -1,0 +1,67 @@
+{
+    "yemekler": [
+        {
+        "id": "0",
+        "image":"https://saraylidoner.com/wp-content/uploads/2021/09/iskenbderetbol.jpg",
+        "title": "Iskender",
+        "tarif": "Yaprak dönerlerimizi tavada çevirerek ısıtıp tekrar hafif kavuruyoruz. Hazır veya önceden yaptığımız pideyi küp küp doğrayarak servis tabağına yerleştiriyoruz. Sosu için tereyağını eritip salçayı ilave ediyoruz. Hafif kavurduktan sonra üzerine yavaş yavaş sıcak su ekleyerek çözdürüyoruz (yoğun yada akışkan olması damak zevkinize kalmış). Karabiberini tuzunu da ilave edip ağzını kapatıp kısık ateşte 5 dakika daha pişirip ocağı kapatıyoruz. Uzun yayvan bir tabağa yerleştirdiğimiz ekmeklerimizin üzerine önce hazırladığımız sosu gezdiriyoruz. Sonra pişen yaprak dönerleri güzelce diziyoruz. Son olarak tereyağını iyice kızdırıp üzerine gezdiriyoruz. Tabağın kenarına biraz yoğurt arzuya göre közlenmiş biber ve domatesle servis yapıyoruz. Afiyet olsun.",
+        "tarih": "24,06,2023"
+    }, 
+    {
+        "id": "1",
+        "image":"https://cdn.yemek.com/mnresize/1250/833/uploads/2016/06/citir-manti-one-cikan-yeni.jpg",
+        "title": "Mantı",
+        "tarif": "Hamur için olan tüm malzemeleri bir kapta yoğurun. Yaptığınız hamuru 4-5 dakika dinlendirin. Hamuru 2 bezeye bölün. Hamuru ince açın ve küçük kareler olacak şekilde kesin. İç harç için kıyma, rende soğan, kuru reyhan, tuz ve karabiberi yoğurun. Kestiğiniz hamurların içerisine iç harcı doldurup mantı şeklinde kapatın. Derin bir tencereye 10 su bardağı suyu ve tuzu koyup, kaynatın. Hazırladığınız mantıları kaynayan suya atıp 7 – 8 dakika haşlayın.",
+        "tarih": "15,01,2018"
+    }, 
+    {
+        "id": "2",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/1200px-Pizza-3007395.jpg",
+        "title": "Pizza",
+        "tarif": "İlk olarak yarım paket yaş mayayı şekerle ılık suda köpürtene kadar eritin. Unu boş bir kaba alın ve maya karışımını dökün. Un ve maya karışımına tuzu ekleyin. İsteğinize göre tuz miktarını artırıp azaltabilirsiniz. Ardından hamuru yoğurmaya başlayın. Hamur kulak memesi kıvamına geldiğinde istenen kıvamda olduğunu anlayabilirsiniz. Kıvamını ayarlamak için ılık su kullanabilirsiniz. Hamur kıvam alınca kabın üzerini bezle kapatıp oda sıcaklığında hamurun kabarması için beklemeye koyun. Pişirme tepsinizi hamuru yaymadan önce yağlayın. Hamuru el yöntemiyle incelterek ya da merdane ile açın. İstediğinize göre hamuru kalın ya da ince yapabilirsiniz. Hamuru tepsiye yaydıktan sonra dilediğiniz tüm pizza üstü malzemeleri serin. Ardından pizzayı önceden ısıtılmış 180 derecelik fırınınıza koyun. Pizza hamuru ve pizza üstü malzemelerin pişmesine yakın pizzanızın üstüne rendelediğiniz kaşar peynirlerini koyun. Böylece kaşar peynirler yanmamış olacaktır. Üst malzemelerin tam olarak piştiğinden emin olduktan sonra pizzanız pişmiş olacaktır.",
+        "tarih": "08,12,2021"
+    }, 
+    {
+        "id": "3",
+        "image":"https://cdn.yemek.com/mnresize/1250/833/uploads/2020/11/firin-sutlac-son-tarifi.jpg",
+        "title": "Sütlaç",
+        "tarif": "Pirinçleri yıkayın ve tencereye alın. Pirinçler yumuşayıp nişastasını salana kadar pişirin. Bu aşamada yavaş yavaş kıvam almaya başlayacaktır. Ardından şekeri ve tuzu ilave edin. Sütlacı kaselere pay edip oda sıcaklığında dinlendirin. Ardından soğuması için dolaba kaldırın. Soğuyunca üzerini tarçınla süsleyerek servis edin. Afiyetler olsun!",
+        "tarih": "17,03,2021"
+    }, 
+    {
+        "id": "4",
+        "image":"https://cdn.yemek.com/mnresize/1250/833/uploads/2018/07/bby-tandir-yemekcom.jpg",
+        "title": "Tandır Kebabı",
+        "tarif": "Yağ ve kekiği bir kapta karıştıralım. Eti bu sosa bulayalım (mümkünse soslu şekilde üzerini kapatıp 1 gece buzdolabında bekletelim). Düdüklü tencerenin içine sosu ile birlikte eti, tuzu ve suyu koyup, buhar çıkarana kadar orta ateşte, daha sonra ise düdüğünü kapatıp, en küçük ocağın, en kısık derecesinde 1,5 saat pişmeye bırakalım Basıncın çıkmasını bekledikten sonra kapağını açıp, kaldıysa suyunu süzüyoruz. Tavaya ya da tencereye az yağ koyup, etimizin üzeri hafif kızarana kadar daha pişirebiliriz. İşte tandır yapmak bu kadar basit. Yanına bulgur pilavı ve patates püresi çok yakışıyor.",
+        "tarih": "01,12,2020"
+    },
+    {
+        "id": "5",
+        "image":"https://www.asiltat.com/upload/productsImage/2000x1333/kuru_baklava.jpeg",
+        "title": "Baklava",
+        "tarif": "Hamur malzemelerinden yumuşak bir hamur yoğurulur ve yarım saat dinlendirilir. cevizler rondodan geçirilir yapılan hamur dört parçaya bölünür ve her bir bezeden ceviz büyüklüğünde 15 beze çıkarılır. ceviz büyüklüğündeki bezeler üzerilerine nişasta dökülerek büyütülür. 15 beze üst üste konulur ve merdane yardımı ile tepsi büyüklüğünde tekrar büyütülür. üzeren ceviz içi serpilir ve diğer bezelere de aynı işlem uygulanır tüm bezeler bitince istenilen şekilde kesilir ve üzerine terayağı ve margarin eriterek dökülüp fırında pişirilir. Şerbet yaklaşık kısık ateşte bir saat kaynadıktan sonra sıcak olarak soğuk hamurun üzerinden dökülür. Afiyet olsun.",
+        "tarih": "28,11,2022"
+    },
+    {
+        "id": "6",
+        "image":"https://cdn.yemek.com/mnresize/940/940/uploads/2020/04/lahmacun-yeni-one-cikan.jpg",
+        "title": "Lahmacun",
+        "tarif": "Derin bir kap içerisine un dökün ve ortasını havuç şeklinde açın. 200 ml'lik suyun içerisine toz şeker ve yaş maya ekleyin. Maya suda eriyene kadar bekleyin. Tuzu, unun kenarlarına doğru serpiştirin. Havuz kısmına gelmemesine dikkat edin. Unun içinde açtığınız havuza mayalı karışımı dökün ve spatula ile karıştırın. Yaklaşık 10 dakika boyunca hamuru yoğurun. Hazırladığınız hamurun üzerini örterek mayalamaya bırakın. İç harcı hazırlamak için başka bir kap alın.İç harç için; kıymayı rendelenmiş domates ve rendelenmiş soğan ile karıştırın. Kıymanın üzerine salça, su, maydanoz ve baharatları ekleyerek yoğurmaya başlayın. Hamur mayalandıktan sonra, 10 eşit parçaya bölün ve oklava ile açın. Açtığınız hamurların üzerine kıymalı harçtan doldurun ve tüm yüzeye yayılmasını sağlayın. Önceden ısıtılmış 220 derecelik fırında 10 dakika pişirin. ",
+        "tarih": "07,06,2015"
+    }, 
+    {
+        "id": "7",
+        "image":"https://cdn.yemek.com/mnresize/940/940/uploads/2014/07/zeytinyagli-yaprak-sarmasi-yemekcom.jpg",
+        "title": "Zeytinyağlı Sarma",
+        "tarif": "Pirinci yıkayıp, ılık suda ıslatın ve 30 dakika bekletin. Süzüp durulayın. Soğanı soyup kıyın. Zeytinyağını tencereye alıp soğanı ekleyin. Biraz pembeleştirip süzülmüş pirinci ilave edin. 1-2 dakika kavurun. Fıstık, üzüm, tuz ve baharatı ilave edip karıştırın, ocaktan alın. Asma yapraklarını tuzlu kaynar suda sararıncaya kadar haşlayıp süzgece alın. Bir tepsinin içinde yaprakları tek tek açarak hazırladığınız iç malzemeden ortalarına ekleyip rulo şeklinde sarın. Tencereye dizip, üzerine bir tabak kapatın. 2 su bardağı ılık su ilave edip, ağır ateşte suyunu çekene kadar pişirin. Kapağı kapalı olarak soğumaya bırakın. Sarmaları servis tabağına alıp üzerine 1 kaşık zeytinyağı gezdirin. Limon dilimleriyle süsleyip servis yapın.",
+        "tarih": "26,03,2018"
+    },
+    {
+        "id": "8",
+        "image":"https://www.makbul.com/Content/global/images/products/2/239/ORG-meyveli-lokum-kg55.jpg",
+        "title": "Lokum",
+        "tarif": "2 su bardağı şeker, 3/4 su bardağı su ve limon tuzunu bir tencereye alın, Şeker eriyene kadar harlı ateşte sık sık karıştırarak kaynatın, Şeker eridikten sonra altını kısık-orta ayara getirip koyulaşıp köpüksü bir dokuya kavuşana kadar (10-15 dk.) kaynatın, Bir kasede 3/4 su bardağı nişasta ve 1/2 su bardağı suyu nişasta eriyene kadar karıştırın, Kaynayan şerbetten bir kepçe alıp nişastalı suya ekleyin ve hızlıca karıştırın, Karışımı şerbete ekleyip hızlıca karıştırın, Frambuazları da ekleyip orta-harlı ateşte sürekli karıştırarak epey koyulaşana kadar pişirin, Altını iyice kısıp tamamen koyulaşana kadar karıştırarak pişirmeye devam edin, Antep fıstıklarını iri iri kıyıp lokuma ekleyin ve homojen biçimde karıştırın, Bir kapta 1/2 su bardağı pudra şekeri ve 1 yemek kaşığı nişastayı karıştırın, Nişastalı pudra şekeri karışımının yarısını yağlı kağıt serilmiş bir tepsiye süzgeç yardımıyla ince bir tabaka halinde serpin, Lokum karışımını tepsiye alın, Sırtını yağladığınız bir kaşık bastırarak istediğiniz boyutta kare ya da dikdörtgen şekil verin, Kalan pudra şekeri+nişasta karışımını üzerine serpin, Üzerine bir parça yağlı kağıt serip lokumu ters çevirin ve altındaki yağlı kağıdı dikkatlice çıkarın, Üzerine pudra şekeri değmemiş yer kaldıysa kenardan topladıklarınızla bu alanı da kapayın, Tepsiyi buzdolabına kaldırıp 20-30 dk (tamamen soğuyup katılaşana kadar) dinlendirin, Buzdolabından çıkarıp istediğiniz boyutta dilimleyin, Her yanını pudra şekeri+nişasta karışımıyla kaplayın.",
+        "tarih": "23,04,2023"
+    }
+]
+}
